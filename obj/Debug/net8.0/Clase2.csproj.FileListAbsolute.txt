@@ -1,0 +1,14 @@
+C:\Users\ESTUDIANTES\Desktop\Clase2\obj\Debug\net8.0\Clase2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESTUDIANTES\Desktop\Clase2\obj\Debug\net8.0\Clase2.AssemblyInfoInputs.cache
+C:\Users\ESTUDIANTES\Desktop\Clase2\obj\Debug\net8.0\Clase2.AssemblyInfo.cs
+C:\Users\ESTUDIANTES\Desktop\Clase2\obj\Debug\net8.0\Clase2.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTES\Desktop\Clase2\bin\Debug\net8.0\Clase2.exe
+C:\Users\ESTUDIANTES\Desktop\Clase2\bin\Debug\net8.0\Clase2.deps.json
+C:\Users\ESTUDIANTES\Desktop\Clase2\bin\Debug\net8.0\Clase2.runtimeconfig.json
+C:\Users\ESTUDIANTES\Desktop\Clase2\bin\Debug\net8.0\Clase2.dll
+C:\Users\ESTUDIANTES\Desktop\Clase2\bin\Debug\net8.0\Clase2.pdb
+C:\Users\ESTUDIANTES\Desktop\Clase2\obj\Debug\net8.0\Clase2.dll
+C:\Users\ESTUDIANTES\Desktop\Clase2\obj\Debug\net8.0\refint\Clase2.dll
+C:\Users\ESTUDIANTES\Desktop\Clase2\obj\Debug\net8.0\Clase2.pdb
+C:\Users\ESTUDIANTES\Desktop\Clase2\obj\Debug\net8.0\Clase2.genruntimeconfig.cache
+C:\Users\ESTUDIANTES\Desktop\Clase2\obj\Debug\net8.0\ref\Clase2.dll
