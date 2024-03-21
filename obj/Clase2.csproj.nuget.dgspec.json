@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Juan Pablo\\Downloads\\Clase2\\Clase2.csproj": {}
+    "C:\\Users\\Juan Pablo\\Desktop\\Programas\\Csharp\\Clase2\\Clase2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Juan Pablo\\Downloads\\Clase2\\Clase2.csproj": {
+    "C:\\Users\\Juan Pablo\\Desktop\\Programas\\Csharp\\Clase2\\Clase2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Juan Pablo\\Downloads\\Clase2\\Clase2.csproj",
+        "projectUniqueName": "C:\\Users\\Juan Pablo\\Desktop\\Programas\\Csharp\\Clase2\\Clase2.csproj",
         "projectName": "Clase2",
-        "projectPath": "C:\\Users\\Juan Pablo\\Downloads\\Clase2\\Clase2.csproj",
+        "projectPath": "C:\\Users\\Juan Pablo\\Desktop\\Programas\\Csharp\\Clase2\\Clase2.csproj",
         "packagesPath": "C:\\Users\\Juan Pablo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Juan Pablo\\Downloads\\Clase2\\obj\\",
+        "outputPath": "C:\\Users\\Juan Pablo\\Desktop\\Programas\\Csharp\\Clase2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Juan Pablo\\AppData\\Roaming\\NuGet\\NuGet.Config"
